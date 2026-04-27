@@ -20,14 +20,23 @@
 5.)	Implement a noise model and apply spatial filtering techniques for image restoration.
 
 6.)	Periodic noise reduction using inverse filtering and Wiener filtering.
+
 7.)	Implement geometric transformations such as rotation, scaling, and translation.
+
 8.)	Perform color image processing by converting an image from RGB to another color model (HSV, YCbCr). Implement and visualize color-based image segmentation techniques.
+
 9.)	Implement Huffman Coding and Run Length Coding for image compression. Compare compression ratios.
+
 10.)	Perform image segmentation using edge detection techniques.
+
 11.)	Apply morphological operations such as dilation and erosion on a binary image.
+
 12.)	Implement threshold-based and region-based segmentation techniques.
+
 13.)	Implement boundary and regional descriptors using chain codes.
 
 14.)	Develop a basic Convolutional Neural Network (CNN) for image classification.
-15.)	Lossless and Lossy Image Compression Using Huffman Coding
-16.)	Shannon–Fano Coding and Arithmetic Coding
+
+15.)	Lossless and Lossy Image Compression Using Huffman Coding.
+
+16.)	Shannon–Fano Coding and Arithmetic Coding.
